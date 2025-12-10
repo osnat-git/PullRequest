@@ -3,6 +3,9 @@ const a = () => {
 }
 
 const b = () => {
-    alert("hello");
     return "hello world!";
+}
+
+const c = () => {
+    confirm("C?");
 }
